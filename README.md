@@ -113,10 +113,3 @@ docker-compose down
 
 ---
 
-## 👨‍💻 Maintained by
-
-**CodingOtt Systems**  
-🔗 [www.codingott.com](https://www.codingott.com)  
-🏷️ _Building career without degree_
-
----
